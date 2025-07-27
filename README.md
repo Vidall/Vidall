@@ -16,11 +16,15 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-![GitHub followers](https://img.shields.io/github/followers/luanvidal?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/luanvidal?style=flat-square)
-![GitHub repo count](https://img.shields.io/github/repos/luanvidal?style=flat-square)
 
 ## 🔥 Streaks de Contribuições
 
@@ -51,9 +55,13 @@
 
 ---
 
-## 📈 Métricas com visitantes
-
+## 📈 Métricas 
 ![Visitors](https://komarev.com/ghpvc/?username=Vidall&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Vidall?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Vidall?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-Diários-important?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Vidall&style=flat-square&color=blue)
+
 
 
 
