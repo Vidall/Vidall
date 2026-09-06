@@ -7,7 +7,7 @@
 
 - 💻 Desenvolvedor web com foco em **Next.js**, **NestJS**, **TypeScript** e **Prisma**
 - 🛠️ Experiência em **APIs REST**, **bancos de dados relacionais e não-relacionais**, **deploys em cloud**
-- 🧠 Sempre aprendendo algo novo — atualmente estudando **desenho técnico naval**
+- 🧠 Sempre aprendendo algo novo
 - 💼 Fundador de uma empresa de soluções web e automações
 - 📍 Baseado em Angra dos Reis - RJ, Brasil
 
